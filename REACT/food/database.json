@@ -1,0 +1,25 @@
+{
+  "fooddata": [
+    {
+      "id": 1,
+      "name": "Pasta",
+      "description": "Delicious pasta with tomato sauce",
+      "price": 10.99
+     
+    },
+    {
+      "id": 2,
+      "name": "Pizza",
+      "description": "Tasty pizza with assorted toppings",
+      "price": 12.99
+     
+    },
+    {
+      "id": 3,
+      "name": "Burger",
+      "description": "Juicy beef burger with fries",
+      "price": 8.99
+     
+    }
+  ]
+}
